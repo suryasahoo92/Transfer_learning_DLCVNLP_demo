@@ -30,3 +30,20 @@ FileNotFoundError: [Errno 2] No such file or directory: 'params.yaml'
 [2021-12-10 21:40:39,442: INFO: common]: yaml file: configs/config.yaml loaded successfully
 [2021-12-10 21:40:47,088: INFO: 01_base_model_creation]: >>>>> stage creating base model completed!<<<<<
 
+[2021-12-10 21:53:40,713: INFO: 01_base_model_creation]: 
+********************
+[2021-12-10 21:53:40,713: INFO: 01_base_model_creation]: >>>>> stage creating base model started <<<<<
+[2021-12-10 21:53:40,714: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2021-12-10 21:54:54,253: INFO: common]: created directory at: artifacts\models
+[2021-12-10 21:54:54,354: INFO: 01_base_model_creation]: base model is saved at artifacts\models\base_model.h5
+[2021-12-10 21:54:54,371: INFO: 01_base_model_creation]: >>>>> stage creating base model completed!<<<<<
+
+[2021-12-10 21:57:15,833: INFO: 01_base_model_creation]: 
+********************
+[2021-12-10 21:57:15,833: INFO: 01_base_model_creation]: >>>>> stage creating base model started <<<<<
+[2021-12-10 21:57:15,834: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2021-12-10 21:58:18,250: INFO: common]: created directory at: artifacts\models
+[2021-12-10 21:58:18,310: INFO: 01_base_model_creation]: base model is saved at artifacts\models\base_model.h5
+[2021-12-10 21:58:19,424: INFO: 01_base_model_creation]: evaluation metrics [0.3162641227245331, 0.9092000126838684]
+[2021-12-10 21:58:19,462: INFO: 01_base_model_creation]: >>>>> stage creating base model completed!<<<<<
+
